@@ -1,0 +1,53 @@
+.product_card{
+    border-radius: 20px;
+    background-color: rgb(20, 20, 20);
+    box-shadow:  0px 20px 30px #000000;
+}
+.img_product{
+    height: 200px;
+    width: 200px;
+}
+
+.title{
+    color: rgb(255, 255, 255);
+}
+
+.price{
+    color: rgb(255, 255, 255);
+}
+
+.type{
+    color: rgb(255, 255, 255);
+}
+
+.btn{
+    border-radius: 25px;
+}
+
+.back_product{
+    background-image: url("image11.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+}
+html, body{
+    height: 100%;
+}
+
+input[type=Number] {
+    background-color: rgba(46, 46, 46, 0);
+    
+    }
+
+.qty_input{
+    width: 10%;
+    border-radius: 20px;
+}
+
+html,body{
+    height: 100%;
+}
+
+.container{
+    height:80%;
+}

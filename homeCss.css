@@ -1,0 +1,25 @@
+.image{
+    background-image: url("image11.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+}
+#homeContainer{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.introText{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.titleh1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color: red;
+}
+
+h4 h1{
+    white-space: nowrap;
+}

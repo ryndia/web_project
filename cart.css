@@ -1,0 +1,30 @@
+.cart_product_holder{
+    border-radius: 30px;
+    border-radius: 25px;
+    box-shadow:  0px 20px 30px #000000;
+}
+
+.product_cart_image{
+    border-radius: 20px;
+}
+
+.calculate_box{
+    border-radius: 30px;
+    box-shadow:  0px 20px 30px #575757;
+}
+
+.proceed_btn{
+    border-bottom-right-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+
+.back_cart{
+    background-image: url("image11.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 100%;
+}
+
+html, body{
+    height: 100%;
+}

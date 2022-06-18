@@ -1,0 +1,31 @@
+/*.navbar-nav.navbar.navbar-expand-lg.navbar-inverse{
+   background: transparent;
+}
+
+.container-fluid{
+   background:transparent;
+}*/
+
+a {
+    text-decoration-style: none;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+}
+
+
+.form-control{
+    border-radius: 30px;
+}
+
+.btn.btn-default.searchBtn{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius:25px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(49, 49, 49);
+}
